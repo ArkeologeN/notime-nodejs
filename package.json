@@ -1,0 +1,31 @@
+{
+  "name": "notime-nodejs",
+  "version": "1.0.0",
+  "description": "notime.eu api wrapper",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "joi": "^11.1.1",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  },
+  "scripts": {
+    "test": "mocha tests/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArkeologeN/notime-nodejs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArkeologeN/notime-nodejs/issues"
+  },
+  "homepage": "https://github.com/ArkeologeN/notime-nodejs#readme"
+}
