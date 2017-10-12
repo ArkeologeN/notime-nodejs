@@ -1,6 +1,6 @@
 {
   "name": "notime-nodejs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "notime.eu api wrapper",
   "main": "index.js",
   "directories": {
